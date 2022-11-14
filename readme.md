@@ -1,3 +1,3 @@
-# Laboratorio #2
+# Proyecto #2
 
 <img src="./proyecto2.png">
