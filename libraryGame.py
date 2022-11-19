@@ -1,6 +1,7 @@
 import struct
 from collections import namedtuple
 
+
 from obj import Obj
 
 
