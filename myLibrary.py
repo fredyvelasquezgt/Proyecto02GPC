@@ -4,6 +4,7 @@ def pi():
     return 22/7
 
 
+
 def crossProduct(vector1, vector2):
     if len(vector1) == 3 and len(vector2) == 3:
         i = vector1[1]*vector2[2] - vector2[1]*vector1[2]
